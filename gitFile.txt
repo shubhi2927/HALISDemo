@@ -1,7 +1,2 @@
-Hello Git
-Hello checking pull from git
-
-Push code to git 
-
-learning Git branch merge
+check branch1233
 
