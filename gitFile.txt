@@ -1,4 +1,2 @@
-Hello Git
-Hello checking pull from git
-Push code to git 
+check branch
 
