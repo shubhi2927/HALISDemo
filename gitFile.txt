@@ -3,4 +3,4 @@ Hello checking pull from git
 
 Push code to git 
 
-leraning Git merge
+leraning Git branch merge
