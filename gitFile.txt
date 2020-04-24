@@ -1,12 +1,4 @@
 Hello Git
 Hello checking pull from git
-
 Push code to git 
 
-<<<<<<< HEAD
-learning Git branch merge.
-=======
-learning Git branch merge
-
-creat pull request
->>>>>>> 0804ee4548ad56562bf56b15166b474cd40c73d3
